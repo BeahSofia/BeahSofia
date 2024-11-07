@@ -16,6 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beahsofia&show_icons=true&theme=dark&title_color=48334a&text_color=442f99&bg_color=88f7a4&locale=en&layout=compact" alt="beahsofia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beahsofia&show_icons=true&theme=dark&title_color=371d49&text_color=2665d9&bg_color=bff9c8&locale=pt-br" alt="beahsofia" /></p>
-
-
-
